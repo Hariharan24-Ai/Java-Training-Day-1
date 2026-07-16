@@ -11,5 +11,5 @@ public class LargerNumber {
         } else {
             System.out.println("Both numbers are equal.");
         }
-    }
+    } 
 }
